@@ -4,10 +4,14 @@
 ## Prerequisites:
 
 -> You have Anaconda already installed in your system
+
 -> conda package manager is installed
+
 -> pip is installed correctly, make sure you check step  1 and 2 of trouble shoot for correct pip installation 
+
 ->Downloading data from kaggle: 
   https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data 
+
   Download all data from above url and arrange it in the format as specified in git, and merge both test-jpg.tar.7z and test-jpg-additional.tar.7z as additional data is also part of test dataset.
 
 
