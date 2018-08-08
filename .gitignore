@@ -1,0 +1,10 @@
+data/models/*
+data/test-jpg/*
+data/train-jpg/*
+data/test-jpg-additional/*
+data/tmp/*
+data/subm/*
+Zips/*
+__pycache__/*
+.DS_Store
+.DS_Store?
